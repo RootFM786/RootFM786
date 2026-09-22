@@ -1,6 +1,6 @@
 # Hi, I'm Fayzaan 👋
 
-**BSc Ethical Hacking & Cybersecurity | SOC / Security Analyst Candidate | CompTIA Network+ | Security+ | Microsoft Sentinel | KQL**
+**BSc Ethical Hacking & Cybersecurity | SOC / Security Analyst | CompTIA Network+ | Security+ | Microsoft Sentinel | KQL**
 
 Cybersecurity graduate focused on **SOC analysis, incident response, threat hunting and defensive security**.
 
